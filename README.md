@@ -1,7 +1,5 @@
 # Welcome to my repository 👋
 
-\social[linkedin][https://www.linkedin.com/in/epavlenkods/]{Evgeny}
-
 ## My name is Evgeny(call me Jeki)
 
 8 years of experience in system administration. I am interested in DS and I have 1 years of experience in this domain
