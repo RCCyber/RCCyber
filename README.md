@@ -8,6 +8,6 @@ I’m currently learning all about data science domain and looking to collaborat
 | Repository | Description |
 | :---------------------- | :---------------------- |
 | [DA repository](https://github.com/RCCyber/DataAnalyst) | Yandex Praktikum DataAnalyst Projects |
-| [DS repository](DataScience) | Yandex Praktikum DataScience Projects |
-| [Flask project in DS](DS_Flask) | Service for forecasting the cost of supported cars on Flask |
-| [CV in Data Science](Detect-employees-CV-) | Classification in CV domain |
+| [DS repository](https://github.com/RCCyber/DataScience) | Yandex Praktikum DataScience Projects |
+| [Flask project in DS](https://github.com/RCCyber/DS_Flask) | Service for forecasting the cost of supported cars on Flask |
+| [CV in Data Science](https://github.com/RCCyber/Detect-employees-CV-) | Classification in CV domain |
