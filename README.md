@@ -1,6 +1,6 @@
 # Welcome to my repository 👋
 
-\social[linkedin]{epavlenkods}
+\social[linkedin][https://www.linkedin.com/in/epavlenkods/]{Evgeny}
 
 ## My name is Evgeny(call me Jeki)
 
