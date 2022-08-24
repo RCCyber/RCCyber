@@ -1,6 +1,6 @@
 # Welcome to my repository 👋
 
-https://www.linkedin.com/in/epavlenkods/
+\social[linkedin]{epavlenkods}
 
 ## My name is Evgeny(call me Jeki)
 
