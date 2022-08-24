@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @RCCyber
-- 👀 I’m interested in Data science, CV, Classic ML, Data Analyse
-- 🌱 I’m currently learning all about data science domain
-- 💞️ I’m looking to collaborate on DS projects, start-up
-- 📫 How to reach me: e-mail 
+# Welcome to my repository 👋
 
-<!---
-RCCyber/RCCyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My name is Eugeny(call me Jeki)
+
+8 years of experience in system administration. I am interested in DS and I have 1 years of experience in this domain
+I’m currently learning all about data science domain and looking to collaborate on DS projects, start-up
+
+| Repository | Description |
+| :---------------------- | :---------------------- |
+| [DA repository](DataAnalyst) | Yandex Praktikum DataAnalyst Projects |
+| [DS repository](DataScience) | Yandex Praktikum DataScience Projects |
+| [Flask project in DS](DS_Flask) | Service for forecasting the cost of supported cars on Flask |
+| [CV in Data Science](Detect-employees-CV-) | Classification in CV domain |
