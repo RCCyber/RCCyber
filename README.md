@@ -1,6 +1,6 @@
 # Welcome to my repository 👋
 
-## My name is Eugeny(call me Jeki)
+## My name is Evgeny(call me Jeki)
 
 8 years of experience in system administration. I am interested in DS and I have 1 years of experience in this domain
 I’m currently learning all about data science domain and looking to collaborate on DS projects, start-up
